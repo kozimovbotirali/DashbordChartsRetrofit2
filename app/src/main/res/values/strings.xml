@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dashbord (Charts, Retrofit2)</string>
+
+    <string name="reason_generic">Something went wrong</string>
+    <string name="reason_persistance_empty">There are no saved launches</string>
+    <string name="reason_network">Network error</string>
+    <string name="reason_empty_body">Response is empty</string>
+    <string name="reason_response">Woops, seems we got a server error</string>
+    <string name="reason_timeout">Server timed out</string>
+    <string name="retry">Retry</string>
+    <string name="line_chart_title">Balance last days</string>
+    <string name="line_chart_title_tasks">Info about tasks</string>
+    <string name="line_chart_title_workers">Info about workers</string>
+    <string name="line_chart_title_users">Users</string>
+    <string name="server_empty">Returns empty body. Please connect with call center!</string>
+</resources>
